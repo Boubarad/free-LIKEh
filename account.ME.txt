@@ -1,0 +1,902 @@
+[
+  {
+    "uid": 5332032433,
+    "password": "fadai_B6X8I_xSaeed_WNVA7",
+    "account_id": "16176541970",
+    "name": "zix⁰⁷¹⁷²",
+    "region": "ME",
+    "date_created": "2026-06-25 17:09:05",
+    "thread_id": 2
+  },
+  {
+    "uid": 5332032401,
+    "password": "fadai_JFMF7_xSaeed_YACIQ",
+    "account_id": "16176542005",
+    "name": "zix⁹⁵⁵⁴⁹",
+    "region": "ME",
+    "date_created": "2026-06-25 17:09:06",
+    "thread_id": 3
+  },
+  {
+    "uid": 5332032432,
+    "password": "fadai_20GDC_xSaeed_52PCH",
+    "account_id": "16176542036",
+    "name": "zix⁵³⁹²⁶",
+    "region": "ME",
+    "date_created": "2026-06-25 17:09:06",
+    "thread_id": 1
+  },
+  {
+    "uid": 5332035487,
+    "password": "fadai_TJSXK_xSaeed_A5A2R",
+    "account_id": "16176543927",
+    "name": "zix³⁵⁵⁸³",
+    "region": "ME",
+    "date_created": "2026-06-25 17:09:16",
+    "thread_id": 2
+  },
+  {
+    "uid": 5332035486,
+    "password": "fadai_OO3NE_xSaeed_TT6U8",
+    "account_id": "16176544027",
+    "name": "zix²⁸⁹³²",
+    "region": "ME",
+    "date_created": "2026-06-25 17:09:16",
+    "thread_id": 1
+  },
+  {
+    "uid": 5332035547,
+    "password": "fadai_DB3GX_xSaeed_UEWPL",
+    "account_id": "16176543988",
+    "name": "zix⁹⁰³²²",
+    "region": "ME",
+    "date_created": "2026-06-25 17:09:16",
+    "thread_id": 3
+  },
+  {
+    "uid": 5332044516,
+    "password": "fadai_DZ2EQ_xSaeed_QI2K7",
+    "account_id": "16176552420",
+    "name": "zix³⁹³⁶⁴",
+    "region": "ME",
+    "date_created": "2026-06-25 17:10:04",
+    "thread_id": 3
+  },
+  {
+    "uid": 5332044969,
+    "password": "fadai_88SB1_xSaeed_9EL8V",
+    "account_id": "16176552477",
+    "name": "zix⁰²¹⁷⁰",
+    "region": "ME",
+    "date_created": "2026-06-25 17:10:04",
+    "thread_id": 1
+  },
+  {
+    "uid": 5332044624,
+    "password": "fadai_F3QPY_xSaeed_9UJ0N",
+    "account_id": "16176552531",
+    "name": "zix⁶²⁰²⁵",
+    "region": "ME",
+    "date_created": "2026-06-25 17:10:04",
+    "thread_id": 2
+  },
+  {
+    "uid": 5332047742,
+    "password": "fadai_J69KY_xSaeed_4BP2C",
+    "account_id": "16176554362",
+    "name": "zix²³¹⁹⁰",
+    "region": "ME",
+    "date_created": "2026-06-25 17:10:13",
+    "thread_id": 3
+  },
+  {
+    "uid": 5332047885,
+    "password": "fadai_73F1G_xSaeed_K0460",
+    "account_id": "16176554606",
+    "name": "zix⁸⁸⁵³³",
+    "region": "ME",
+    "date_created": "2026-06-25 17:10:15",
+    "thread_id": 2
+  },
+  {
+    "uid": 5332047850,
+    "password": "fadai_5JT5V_xSaeed_2Q27Z",
+    "account_id": "16176554635",
+    "name": "zix⁰⁶⁷²⁴",
+    "region": "ME",
+    "date_created": "2026-06-25 17:10:15",
+    "thread_id": 1
+  },
+  {
+    "uid": 5332049972,
+    "password": "fadai_DBO4W_xSaeed_WHNRW",
+    "account_id": "16176556138",
+    "name": "zix²⁶⁰⁰⁴",
+    "region": "ME",
+    "date_created": "2026-06-25 17:10:23",
+    "thread_id": 3
+  },
+  {
+    "uid": 5332050211,
+    "password": "fadai_LEF8B_xSaeed_YZB7F",
+    "account_id": "16176556420",
+    "name": "zix⁷⁶²⁴⁴",
+    "region": "ME",
+    "date_created": "2026-06-25 17:10:25",
+    "thread_id": 1
+  },
+  {
+    "uid": 5332050315,
+    "password": "fadai_T4H2W_xSaeed_GA7PZ",
+    "account_id": "16176556422",
+    "name": "zix⁹⁴⁵⁷⁷",
+    "region": "ME",
+    "date_created": "2026-06-25 17:10:25",
+    "thread_id": 2
+  },
+  {
+    "uid": 5332057100,
+    "password": "fadai_Q72TL_xSaeed_UWTVW",
+    "account_id": "16176563240",
+    "name": "zix³⁵⁰⁰⁹",
+    "region": "ME",
+    "date_created": "2026-06-25 17:11:04",
+    "thread_id": 1
+  },
+  {
+    "uid": 5332059175,
+    "password": "fadai_741CT_xSaeed_51KPF",
+    "account_id": "16176564448",
+    "name": "zix⁷⁹⁸⁸⁶",
+    "region": "ME",
+    "date_created": "2026-06-25 17:11:10",
+    "thread_id": 3
+  },
+  {
+    "uid": 5332059308,
+    "password": "fadai_855F9_xSaeed_W0VCJ",
+    "account_id": "16176564592",
+    "name": "zix⁶⁹¹⁷²",
+    "region": "ME",
+    "date_created": "2026-06-25 17:11:11",
+    "thread_id": 2
+  },
+  {
+    "uid": 5332060048,
+    "password": "fadai_1YBUM_xSaeed_5HF59",
+    "account_id": "16176565308",
+    "name": "zix⁸²²⁷⁶",
+    "region": "ME",
+    "date_created": "2026-06-25 17:11:14",
+    "thread_id": 1
+  },
+  {
+    "uid": 5332061611,
+    "password": "fadai_ZLQ6W_xSaeed_Z08BW",
+    "account_id": "16176566564",
+    "name": "zix⁸⁴⁴⁷⁸",
+    "region": "ME",
+    "date_created": "2026-06-25 17:11:20",
+    "thread_id": 3
+  },
+  {
+    "uid": 5332070655,
+    "password": "fadai_MT0LT_xSaeed_LP1QM",
+    "account_id": "16176574941",
+    "name": "zix⁵³⁴⁵⁹",
+    "region": "ME",
+    "date_created": "2026-06-25 17:12:04",
+    "thread_id": 1
+  },
+  {
+    "uid": 5332070894,
+    "password": "fadai_4N3N6_xSaeed_E6ESA",
+    "account_id": "16176575276",
+    "name": "zix³³¹⁰¹",
+    "region": "ME",
+    "date_created": "2026-06-25 17:12:06",
+    "thread_id": 3
+  },
+  {
+    "uid": 5332072302,
+    "password": "fadai_1SGCU_xSaeed_RA0PM",
+    "account_id": "16176575676",
+    "name": "zix⁵⁰⁰⁹⁸",
+    "region": "ME",
+    "date_created": "2026-06-25 17:12:08",
+    "thread_id": 2
+  },
+  {
+    "uid": 5332075077,
+    "password": "fadai_YEQHY_xSaeed_QM7OP",
+    "account_id": "16176577329",
+    "name": "zix⁴²⁰⁸³",
+    "region": "ME",
+    "date_created": "2026-06-25 17:12:15",
+    "thread_id": 1
+  },
+  {
+    "uid": 5332075379,
+    "password": "fadai_HS0L1_xSaeed_68WA0",
+    "account_id": "16176577639",
+    "name": "zix⁵⁹⁰⁹³",
+    "region": "ME",
+    "date_created": "2026-06-25 17:12:17",
+    "thread_id": 3
+  },
+  {
+    "uid": 5332075812,
+    "password": "fadai_YSGJ0_xSaeed_VG19V",
+    "account_id": "16176577745",
+    "name": "zix⁷⁹⁴⁹⁶",
+    "region": "ME",
+    "date_created": "2026-06-25 17:12:18",
+    "thread_id": 2
+  },
+  {
+    "uid": 5332085176,
+    "password": "fadai_TOXGN_xSaeed_MMFQN",
+    "account_id": "16176586033",
+    "name": "zix⁶⁰⁹⁴⁷",
+    "region": "ME",
+    "date_created": "2026-06-25 17:13:04",
+    "thread_id": 2
+  },
+  {
+    "uid": 5332085166,
+    "password": "fadai_AGY4F_xSaeed_BWYPS",
+    "account_id": "16176586039",
+    "name": "zix⁹⁷⁰¹⁴",
+    "region": "ME",
+    "date_created": "2026-06-25 17:13:04",
+    "thread_id": 3
+  },
+  {
+    "uid": 5332085033,
+    "password": "fadai_EVYEH_xSaeed_6T6ZD",
+    "account_id": "16176586196",
+    "name": "zix⁵⁶⁴¹⁶",
+    "region": "ME",
+    "date_created": "2026-06-25 17:13:05",
+    "thread_id": 1
+  },
+  {
+    "uid": 5332088297,
+    "password": "fadai_BX7M1_xSaeed_KYEW3",
+    "account_id": "16176587982",
+    "name": "zix¹¹¹⁸⁹",
+    "region": "ME",
+    "date_created": "2026-06-25 17:13:14",
+    "thread_id": 2
+  },
+  {
+    "uid": 5332088340,
+    "password": "fadai_Z4O09_xSaeed_W847M",
+    "account_id": "16176588130",
+    "name": "zix⁵⁸⁰¹³",
+    "region": "ME",
+    "date_created": "2026-06-25 17:13:15",
+    "thread_id": 3
+  },
+  {
+    "uid": 5332088569,
+    "password": "fadai_MILPV_xSaeed_8AH4X",
+    "account_id": "16176588169",
+    "name": "zix²⁶⁴²¹",
+    "region": "ME",
+    "date_created": "2026-06-25 17:13:15",
+    "thread_id": 1
+  },
+  {
+    "uid": 5332090522,
+    "password": "fadai_79RSX_xSaeed_6CDR6",
+    "account_id": "16176589577",
+    "name": "zix⁴¹⁵⁹⁴",
+    "region": "ME",
+    "date_created": "2026-06-25 17:13:23",
+    "thread_id": 2
+  },
+  {
+    "uid": 5332090806,
+    "password": "fadai_OCPIN_xSaeed_RFKI0",
+    "account_id": "16176589889",
+    "name": "zix²⁹⁶⁷³",
+    "region": "ME",
+    "date_created": "2026-06-25 17:13:26",
+    "thread_id": 1
+  },
+  {
+    "uid": 5332090733,
+    "password": "fadai_U8NWP_xSaeed_8Q52H",
+    "account_id": "16176589980",
+    "name": "zix¹¹⁶²¹",
+    "region": "ME",
+    "date_created": "2026-06-25 17:13:27",
+    "thread_id": 3
+  },
+  {
+    "uid": 5332097537,
+    "password": "fadai_ABABO_xSaeed_M3AJN",
+    "account_id": "16176596878",
+    "name": "zix⁴⁸⁵¹⁹",
+    "region": "ME",
+    "date_created": "2026-06-25 17:14:06",
+    "thread_id": 3
+  },
+  {
+    "uid": 5332098074,
+    "password": "fadai_IJMZX_xSaeed_F0DHY",
+    "account_id": "16176597045",
+    "name": "zix⁹⁷⁶⁷⁷",
+    "region": "ME",
+    "date_created": "2026-06-25 17:14:07",
+    "thread_id": 1
+  },
+  {
+    "uid": 5332101595,
+    "password": "fadai_2ZBGA_xSaeed_R1DLA",
+    "account_id": "16176599478",
+    "name": "zix⁵¹⁵²⁵",
+    "region": "ME",
+    "date_created": "2026-06-25 17:14:18",
+    "thread_id": 3
+  },
+  {
+    "uid": 5332102951,
+    "password": "fadai_W44J5_xSaeed_1O8YT",
+    "account_id": "16176600025",
+    "name": "zix²⁸⁷⁵⁸",
+    "region": "ME",
+    "date_created": "2026-06-25 17:14:22",
+    "thread_id": 1
+  },
+  {
+    "uid": 5332110303,
+    "password": "fadai_62ID7_xSaeed_ICRZK",
+    "account_id": "16176608307",
+    "name": "zix⁴⁶⁸⁷⁰",
+    "region": "ME",
+    "date_created": "2026-06-25 17:15:08",
+    "thread_id": 2
+  },
+  {
+    "uid": 5332110304,
+    "password": "fadai_Y3XPL_xSaeed_39O9W",
+    "account_id": "16176608874",
+    "name": "zix⁵⁰⁰⁵⁷",
+    "region": "ME",
+    "date_created": "2026-06-25 17:15:08",
+    "thread_id": 3
+  },
+  {
+    "uid": 5332112529,
+    "password": "fadai_X9MIW_xSaeed_C4CME",
+    "account_id": "16176609466",
+    "name": "zix⁶¹⁹⁹⁸",
+    "region": "ME",
+    "date_created": "2026-06-25 17:15:10",
+    "thread_id": 1
+  },
+  {
+    "uid": 5332115934,
+    "password": "fadai_OZSDQ_xSaeed_1MQPV",
+    "account_id": "16176611201",
+    "name": "zix⁰²⁶⁵⁹",
+    "region": "ME",
+    "date_created": "2026-06-25 17:15:18",
+    "thread_id": 2
+  },
+  {
+    "uid": 5332115932,
+    "password": "fadai_MM510_xSaeed_V6UEA",
+    "account_id": "16176611270",
+    "name": "zix³³⁶⁸⁸",
+    "region": "ME",
+    "date_created": "2026-06-25 17:15:19",
+    "thread_id": 3
+  },
+  {
+    "uid": 5332116546,
+    "password": "fadai_GLACC_xSaeed_OJ66T",
+    "account_id": "16176611507",
+    "name": "zix⁶⁷⁶⁸⁷",
+    "region": "ME",
+    "date_created": "2026-06-25 17:15:20",
+    "thread_id": 1
+  },
+  {
+    "uid": 5332125681,
+    "password": "fadai_440N9_xSaeed_OR6GK",
+    "account_id": "16176618827",
+    "name": "zix⁵¹⁹⁴⁶",
+    "region": "ME",
+    "date_created": "2026-06-25 17:16:05",
+    "thread_id": 1
+  },
+  {
+    "uid": 5332125791,
+    "password": "fadai_K0WQG_xSaeed_VK5TY",
+    "account_id": "16176618802",
+    "name": "zix⁰⁹⁸⁶⁶",
+    "region": "ME",
+    "date_created": "2026-06-25 17:16:05",
+    "thread_id": 3
+  },
+  {
+    "uid": 5332125880,
+    "password": "fadai_47MZS_xSaeed_SZRY9",
+    "account_id": "16176618934",
+    "name": "zix⁷⁵⁷⁵³",
+    "region": "ME",
+    "date_created": "2026-06-25 17:16:06",
+    "thread_id": 2
+  },
+  {
+    "uid": 5332128922,
+    "password": "fadai_E8OWA_xSaeed_DH0PF",
+    "account_id": "16176621030",
+    "name": "zix⁹¹⁹⁵⁷",
+    "region": "ME",
+    "date_created": "2026-06-25 17:16:15",
+    "thread_id": 1
+  },
+  {
+    "uid": 5332129021,
+    "password": "fadai_ILM30_xSaeed_XCHUG",
+    "account_id": "16176621071",
+    "name": "zix⁸³⁰⁵¹",
+    "region": "ME",
+    "date_created": "2026-06-25 17:16:15",
+    "thread_id": 3
+  },
+  {
+    "uid": 5332129149,
+    "password": "fadai_HQ5OJ_xSaeed_QS9LQ",
+    "account_id": "16176621186",
+    "name": "zix⁵⁰⁷⁷⁴",
+    "region": "ME",
+    "date_created": "2026-06-25 17:16:16",
+    "thread_id": 2
+  },
+  {
+    "uid": 5332131738,
+    "password": "fadai_G84XN_xSaeed_XMJT5",
+    "account_id": "16176622947",
+    "name": "zix⁸³⁴³³",
+    "region": "ME",
+    "date_created": "2026-06-25 17:16:25",
+    "thread_id": 3
+  },
+  {
+    "uid": 5332131620,
+    "password": "fadai_VO1A6_xSaeed_YG1WB",
+    "account_id": "16176622949",
+    "name": "zix⁹³⁸⁸⁵",
+    "region": "ME",
+    "date_created": "2026-06-25 17:16:25",
+    "thread_id": 1
+  },
+  {
+    "uid": 5332131884,
+    "password": "fadai_0AZM3_xSaeed_1VLB9",
+    "account_id": "16176623019",
+    "name": "zix²²²¹⁵",
+    "region": "ME",
+    "date_created": "2026-06-25 17:16:25",
+    "thread_id": 2
+  },
+  {
+    "uid": 5332139108,
+    "password": "fadai_PM3Y8_xSaeed_DDKMO",
+    "account_id": "16176629252",
+    "name": "zix⁸⁶⁹⁹⁹",
+    "region": "ME",
+    "date_created": "2026-06-25 17:17:04",
+    "thread_id": 1
+  },
+  {
+    "uid": 5332139340,
+    "password": "fadai_QD3P4_xSaeed_5O0P5",
+    "account_id": "16176629479",
+    "name": "zix⁰¹⁸⁰⁵",
+    "region": "ME",
+    "date_created": "2026-06-25 17:17:05",
+    "thread_id": 2
+  },
+  {
+    "uid": 5332141404,
+    "password": "fadai_GHUTV_xSaeed_SB3UN",
+    "account_id": "16176630351",
+    "name": "zix⁵¹⁵¹⁰",
+    "region": "ME",
+    "date_created": "2026-06-25 17:17:09",
+    "thread_id": 3
+  },
+  {
+    "uid": 5332142812,
+    "password": "fadai_UF0ET_xSaeed_AIC51",
+    "account_id": "16176631622",
+    "name": "zix⁴⁰⁸⁷⁰",
+    "region": "ME",
+    "date_created": "2026-06-25 17:17:14",
+    "thread_id": 1
+  },
+  {
+    "uid": 5332142945,
+    "password": "fadai_8IZ3A_xSaeed_R9UWB",
+    "account_id": "16176631703",
+    "name": "zix⁰⁸⁵¹⁸",
+    "region": "ME",
+    "date_created": "2026-06-25 17:17:15",
+    "thread_id": 2
+  },
+  {
+    "uid": 5332144077,
+    "password": "fadai_OR53A_xSaeed_1V00H",
+    "account_id": "16176632640",
+    "name": "zix³¹³³¹",
+    "region": "ME",
+    "date_created": "2026-06-25 17:17:19",
+    "thread_id": 3
+  },
+  {
+    "uid": 5332145772,
+    "password": "fadai_07381_xSaeed_ES3EA",
+    "account_id": "16176633946",
+    "name": "zix⁹⁴⁰⁰⁴",
+    "region": "ME",
+    "date_created": "2026-06-25 17:17:25",
+    "thread_id": 1
+  },
+  {
+    "uid": 5332145863,
+    "password": "fadai_HXEXF_xSaeed_D8F7F",
+    "account_id": "16176634102",
+    "name": "zix⁵⁷²¹²",
+    "region": "ME",
+    "date_created": "2026-06-25 17:17:25",
+    "thread_id": 2
+  },
+  {
+    "uid": 5332153927,
+    "password": "fadai_PSV2D_xSaeed_ISDKZ",
+    "account_id": "16176641043",
+    "name": "zix⁶⁴⁸¹²",
+    "region": "ME",
+    "date_created": "2026-06-25 17:18:05",
+    "thread_id": 2
+  },
+  {
+    "uid": 5332153811,
+    "password": "fadai_RB1WQ_xSaeed_OLWJ9",
+    "account_id": "16176641016",
+    "name": "zix⁰⁰⁴¹²",
+    "region": "ME",
+    "date_created": "2026-06-25 17:18:06",
+    "thread_id": 1
+  },
+  {
+    "uid": 5332155014,
+    "password": "fadai_H1OC3_xSaeed_R45UR",
+    "account_id": "16176641989",
+    "name": "zix²⁹²⁰⁹",
+    "region": "ME",
+    "date_created": "2026-06-25 17:18:09",
+    "thread_id": 3
+  },
+  {
+    "uid": 5332157851,
+    "password": "fadai_K9MPV_xSaeed_OHX9E",
+    "account_id": "16176643464",
+    "name": "zix⁹¹⁶¹³",
+    "region": "ME",
+    "date_created": "2026-06-25 17:18:15",
+    "thread_id": 2
+  },
+  {
+    "uid": 5332158104,
+    "password": "fadai_6TACS_xSaeed_K8V7Z",
+    "account_id": "16176643770",
+    "name": "zix¹⁵³⁰⁵",
+    "region": "ME",
+    "date_created": "2026-06-25 17:18:16",
+    "thread_id": 1
+  },
+  {
+    "uid": 5332158702,
+    "password": "fadai_PK6DK_xSaeed_LA5QK",
+    "account_id": "16176644338",
+    "name": "zix³²³⁸³",
+    "region": "ME",
+    "date_created": "2026-06-25 17:18:19",
+    "thread_id": 3
+  },
+  {
+    "uid": 5332167882,
+    "password": "fadai_H9UY5_xSaeed_6TM4T",
+    "account_id": "16176652968",
+    "name": "zix⁶¹⁰⁴⁷",
+    "region": "ME",
+    "date_created": "2026-06-25 17:19:04",
+    "thread_id": 1
+  },
+  {
+    "uid": 5332168144,
+    "password": "fadai_H7LQ3_xSaeed_T19NH",
+    "account_id": "16176653437",
+    "name": "zix⁶¹⁶¹⁵",
+    "region": "ME",
+    "date_created": "2026-06-25 17:19:06",
+    "thread_id": 3
+  },
+  {
+    "uid": 5332170164,
+    "password": "fadai_RZ56S_xSaeed_MOAYX",
+    "account_id": "16176654182",
+    "name": "zix⁴⁶⁷⁷⁴",
+    "region": "ME",
+    "date_created": "2026-06-25 17:19:10",
+    "thread_id": 2
+  },
+  {
+    "uid": 5332171024,
+    "password": "fadai_9JIIS_xSaeed_JBBWN",
+    "account_id": "16176654953",
+    "name": "zix⁹⁷³⁶⁷",
+    "region": "ME",
+    "date_created": "2026-06-25 17:19:14",
+    "thread_id": 1
+  },
+  {
+    "uid": 5332171395,
+    "password": "fadai_UKFFZ_xSaeed_WC5GR",
+    "account_id": "16176655296",
+    "name": "zix¹⁹⁰³²",
+    "region": "ME",
+    "date_created": "2026-06-25 17:19:16",
+    "thread_id": 3
+  },
+  {
+    "uid": 5332172445,
+    "password": "fadai_4T13W_xSaeed_97BHT",
+    "account_id": "16176656080",
+    "name": "zix⁰¹⁷⁸⁴",
+    "region": "ME",
+    "date_created": "2026-06-25 17:19:20",
+    "thread_id": 2
+  },
+  {
+    "uid": 5332173549,
+    "password": "fadai_IVAIG_xSaeed_6YFY7",
+    "account_id": "16176656733",
+    "name": "zix⁵⁰⁹⁰³",
+    "region": "ME",
+    "date_created": "2026-06-25 17:19:24",
+    "thread_id": 1
+  },
+  {
+    "uid": 5332180965,
+    "password": "fadai_C187J_xSaeed_83RY5",
+    "account_id": "16176664026",
+    "name": "zix⁴³⁴⁰⁰",
+    "region": "ME",
+    "date_created": "2026-06-25 17:20:05",
+    "thread_id": 3
+  },
+  {
+    "uid": 5332180957,
+    "password": "fadai_XCE52_xSaeed_UQOHE",
+    "account_id": "16176664028",
+    "name": "zix⁸⁶⁴⁶⁵",
+    "region": "ME",
+    "date_created": "2026-06-25 17:20:05",
+    "thread_id": 1
+  },
+  {
+    "uid": 5332182178,
+    "password": "fadai_YTZO3_xSaeed_S54KY",
+    "account_id": "16176664670",
+    "name": "zix⁷⁵⁹⁷¹",
+    "region": "ME",
+    "date_created": "2026-06-25 17:20:08",
+    "thread_id": 2
+  },
+  {
+    "uid": 5332184514,
+    "password": "fadai_5XGTQ_xSaeed_YCFY5",
+    "account_id": "16176666623",
+    "name": "zix²⁹²⁷⁷",
+    "region": "ME",
+    "date_created": "2026-06-25 17:20:18",
+    "thread_id": 3
+  },
+  {
+    "uid": 5332184622,
+    "password": "fadai_RGAE3_xSaeed_LX7D0",
+    "account_id": "16176666565",
+    "name": "zix³⁶⁹¹²",
+    "region": "ME",
+    "date_created": "2026-06-25 17:20:18",
+    "thread_id": 1
+  },
+  {
+    "uid": 5332185103,
+    "password": "fadai_UI6FH_xSaeed_A290Q",
+    "account_id": "16176667319",
+    "name": "zix¹⁹⁴⁴⁴",
+    "region": "ME",
+    "date_created": "2026-06-25 17:20:20",
+    "thread_id": 2
+  },
+  {
+    "uid": 5332187507,
+    "password": "fadai_IC7Z2_xSaeed_GBJYV",
+    "account_id": "16176668781",
+    "name": "zix⁸⁹¹⁶⁹",
+    "region": "ME",
+    "date_created": "2026-06-25 17:20:28",
+    "thread_id": 3
+  },
+  {
+    "uid": 5332193952,
+    "password": "fadai_Y141Q_xSaeed_SD0AP",
+    "account_id": "16176675470",
+    "name": "zix⁴⁴⁵⁴¹",
+    "region": "ME",
+    "date_created": "2026-06-25 17:21:11",
+    "thread_id": 2
+  },
+  {
+    "uid": 5332193947,
+    "password": "fadai_CWT7W_xSaeed_TOVLN",
+    "account_id": "16176675469",
+    "name": "zix⁶⁰⁶⁰⁷",
+    "region": "ME",
+    "date_created": "2026-06-25 17:21:11",
+    "thread_id": 1
+  },
+  {
+    "uid": 5332194902,
+    "password": "fadai_PUJ9I_xSaeed_D6NNP",
+    "account_id": "16176676203",
+    "name": "zix⁵²⁶⁹⁶",
+    "region": "ME",
+    "date_created": "2026-06-25 17:21:17",
+    "thread_id": 3
+  },
+  {
+    "uid": 5332204538,
+    "password": "fadai_68KLR_xSaeed_RW5CW",
+    "account_id": "16176685531",
+    "name": "zix²⁸¹⁹⁰",
+    "region": "ME",
+    "date_created": "2026-06-25 17:22:04",
+    "thread_id": 1
+  },
+  {
+    "uid": 5332204628,
+    "password": "fadai_KUAGI_xSaeed_6HZ1R",
+    "account_id": "16176685996",
+    "name": "zix⁸⁰⁴⁰⁹",
+    "region": "ME",
+    "date_created": "2026-06-25 17:22:06",
+    "thread_id": 2
+  },
+  {
+    "uid": 5332204903,
+    "password": "fadai_5LW8I_xSaeed_75JTA",
+    "account_id": "16176686115",
+    "name": "zix⁰²⁹¹⁵",
+    "region": "ME",
+    "date_created": "2026-06-25 17:22:07",
+    "thread_id": 3
+  },
+  {
+    "uid": 5332207547,
+    "password": "fadai_W1L1W_xSaeed_OF5IM",
+    "account_id": "16176687643",
+    "name": "zix²⁴⁶⁷⁸",
+    "region": "ME",
+    "date_created": "2026-06-25 17:22:15",
+    "thread_id": 1
+  },
+  {
+    "uid": 5332208014,
+    "password": "fadai_N96OO_xSaeed_ET29L",
+    "account_id": "16176688170",
+    "name": "zix³⁰⁸³⁴",
+    "region": "ME",
+    "date_created": "2026-06-25 17:22:18",
+    "thread_id": 3
+  },
+  {
+    "uid": 5332207940,
+    "password": "fadai_FU9RK_xSaeed_N1JOJ",
+    "account_id": "16176688181",
+    "name": "zix⁶³¹⁸³",
+    "region": "ME",
+    "date_created": "2026-06-25 17:22:18",
+    "thread_id": 2
+  },
+  {
+    "uid": 5332209368,
+    "password": "fadai_BJM7V_xSaeed_4E89P",
+    "account_id": "16176689493",
+    "name": "zix⁰⁶⁹⁸⁷",
+    "region": "ME",
+    "date_created": "2026-06-25 17:22:25",
+    "thread_id": 1
+  },
+  {
+    "uid": 5332215100,
+    "password": "fadai_CD6DK_xSaeed_1G0QO",
+    "account_id": "16176697058",
+    "name": "zix⁴⁹²⁵⁵",
+    "region": "ME",
+    "date_created": "2026-06-25 17:23:14",
+    "thread_id": 3
+  },
+  {
+    "uid": 5332217752,
+    "password": "fadai_H4RQP_xSaeed_Y4803",
+    "account_id": "16176698481",
+    "name": "zix⁷²⁴⁴⁴",
+    "region": "ME",
+    "date_created": "2026-06-25 17:23:17",
+    "thread_id": 1
+  },
+  {
+    "uid": 5332217872,
+    "password": "fadai_LN5TM_xSaeed_7QAXC",
+    "account_id": "16176699244",
+    "name": "zix⁰⁵⁸²¹",
+    "region": "ME",
+    "date_created": "2026-06-25 17:23:21",
+    "thread_id": 2
+  },
+  {
+    "uid": 5332230434,
+    "password": "fadai_DJL9R_xSaeed_5HCET",
+    "account_id": "16176708709",
+    "name": "zix⁴⁷⁴⁴⁰",
+    "region": "ME",
+    "date_created": "2026-06-25 17:24:12",
+    "thread_id": 1
+  },
+  {
+    "uid": 5332230331,
+    "password": "fadai_4N2P6_xSaeed_TP1V1",
+    "account_id": "16176708622",
+    "name": "zix²⁰⁵³⁶",
+    "region": "ME",
+    "date_created": "2026-06-25 17:24:12",
+    "thread_id": 2
+  },
+  {
+    "uid": 5332229654,
+    "password": "fadai_TTHYA_xSaeed_QO8N5",
+    "account_id": "16176708411",
+    "name": "zix⁷¹⁶⁴¹",
+    "region": "ME",
+    "date_created": "2026-06-25 17:24:16",
+    "thread_id": 3
+  },
+  {
+    "uid": 5332232685,
+    "password": "fadai_KM83Z_xSaeed_NZK41",
+    "account_id": "16176711187",
+    "name": "zix¹³⁶⁵¹",
+    "region": "ME",
+    "date_created": "2026-06-25 17:24:24",
+    "thread_id": 2
+  },
+  {
+    "uid": 5332233128,
+    "password": "fadai_JBZY9_xSaeed_TJL5Z",
+    "account_id": "16176711610",
+    "name": "zix²⁹¹⁹⁷",
+    "region": "ME",
+    "date_created": "2026-06-25 17:24:25",
+    "thread_id": 1
+  }
+]
